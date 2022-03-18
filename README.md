@@ -1,4 +1,4 @@
-# Sneakers shop application using Flutter + Animations
+# Movies app - Flutter
 ## Description
 A Movies application Implemented by GetX pattern in Flutter
 
