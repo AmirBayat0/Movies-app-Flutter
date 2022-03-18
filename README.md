@@ -4,6 +4,7 @@ A Movies application Implemented by GetX in Flutter
 
 I Hope you Like this Project❤!
 ## Preview
+https://www.instagram.com/tv/CbPbf9NAwPC/?utm_medium=copy_link
 
 # ⚠️ Essential Packages 
 * carousel_slider: ^4.0.0
