@@ -1,5 +1,6 @@
 # Movies app - Flutter
 A Movies application Implemented by GetX in Flutter
+
 I Hope you Like this Project❤!
 
 ## Links
